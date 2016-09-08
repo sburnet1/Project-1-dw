@@ -1,0 +1,22 @@
+<style media="screen" type="text/css">
+
+main {
+
+width: 100%;
+margin:auto;
+}
+
+section#story p {
+color:#fff;
+font-size: .75em;
+}
+html {
+background-color: #121f1f;
+}
+
+section#title h1{
+
+font-size: 3em;
+text-align: center;
+text-color: #fff;
+}
